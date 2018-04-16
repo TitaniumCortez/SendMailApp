@@ -1,0 +1,849 @@
+Fri May 12 11:06:05 BRT 2017: Erro de preenchimento
+Fri May 12 11:06:05 BRT 2017: Erro de preenchimento
+Fri May 12 11:06:05 BRT 2017: Erro de preenchimento
+Fri May 12 11:06:05 BRT 2017: Erro de preenchimento
+Fri May 12 11:06:35 BRT 2017: Erro de preenchimento
+Fri May 12 11:06:35 BRT 2017: Erro de preenchimento
+Fri May 12 11:06:35 BRT 2017: Erro de preenchimento
+Fri May 12 11:06:35 BRT 2017: Erro de preenchimento
+Wed May 17 10:58:46 BRT 2017: Error Agent Stopped!
+Wed May 17 10:59:49 BRT 2017: Error Agent Stopped!
+Mon May 22 11:14:08 BRT 2017: jdbc:sqlserver://192.168.1.119:1433;databaseName=IMPromptManagerConected 0 False,1 True:  false
+Mon May 22 11:47:03 BRT 2017: Falha na conexão TCP/IP com o host 192.168.1.119, porta 1433. Erro: "Connection refused: no further information. Verifique as propriedades da conexão. Verifique se uma instância do SQL Server está sendo executada no host e se está aceitando conexões TCP/IP na porta. Verifique se as conexões TCP na porta não foram bloqueadas por um firewall.".
+Mon May 22 11:47:03 BRT 2017: jdbc:sqlserver://192.168.1.119:1433;databaseName=IMPromptManager  Conected :false
+Mon May 22 12:08:28 BRT 2017: Falha na conexão TCP/IP com o host 192.168.1.119, porta 1433. Erro: "Connection refused: no further information. Verifique as propriedades da conexão. Verifique se uma instância do SQL Server está sendo executada no host e se está aceitando conexões TCP/IP na porta. Verifique se as conexões TCP na porta não foram bloqueadas por um firewall.".
+Mon May 22 12:08:28 BRT 2017: jdbc:sqlserver://192.168.1.119:1433;databaseName=IMPromptManager  Conected :false
+Mon May 22 12:45:36 BRT 2017: \templates\templateEmail.html (O sistema não pode encontrar o caminho especificado)
+Mon May 22 12:54:30 BRT 2017: \templates\templateEmail.html (O sistema não pode encontrar o caminho especificado)
+Mon May 22 12:55:18 BRT 2017: \templates\templateEmail.html (O sistema não pode encontrar o caminho especificado)
+Mon May 22 12:55:47 BRT 2017: \templates\templateEmail.html (O sistema não pode encontrar o caminho especificado)
+Mon May 22 12:57:43 BRT 2017: \template\templateEmail.html (O sistema não pode encontrar o caminho especificado)
+Mon May 22 13:00:04 BRT 2017: \template\templateEmail.html (O sistema não pode encontrar o caminho especificado)
+Mon May 22 17:00:41 BRT 2017: <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'><!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'><html xmlns='http://www.w3.org/1999/xhtml'><head><meta http-equiv='Content-Type' content='text/html; charset=utf-8' /><title>Status Ticket </title></head><body><table align="center" width="600" bgcolor="#ffffff" border="0" cellpadding="4" cellspacing="1" style="border:1px solid #dddddd;"><tr><td><!--Header--><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td valign="top"><table cellpadding="0" cellspacing="0" width="100%" border="0"><tr><td align="center" height="92"><img src=\"cid:image\" alt="Prompt Manager" width="588" height="92" /></td></tr></table><table cellpadding="10" width="100%" bgcolor="#3e3934"><tr><td align="center" height="22"><font color="#ffffff" face="arial narrow,arial,sans-serif" size="4"><b>Ticked TESTE</b></font></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" border="0"><tr><td align="center" height="5"></td></tr></table></td></tr></table><table cellspacing="0" cellpadding="10" width="100%"><tr><td><!--1 Colonna--><table cellpadding="15" cellspacing="0" width="100%"><tr><td colspan="2"><font color="#666666" face="arial narrow,arial,sans-serif" size="2">Caro Usuário,<br><br>Este e-mail tem o objetivo de informá-lo o status do ticket TESTE_22_05<br><br><br>Atenciosamente.<br>Prompt Manager – TIM<br></font><br /></td></tr></table><!--DIVISIONE--><table cellpadding="10" cellspacing="0" width="100%"><tr><td><table cellpadding="0" cellspacing="0" width="100%" bgcolor="#dddddd"><tr><td height="1"></td><p align="right"><font size="2" color="#808080"> <java:4></font></p></tr></table></td></tr></table></td></tr></table></td></table></body></html>
+Wed May 24 00:13:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:16:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:17:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:18:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:18:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:20:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:25 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:25 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:25 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:25 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:25 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:25 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:26 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:26 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:26 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:26 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:26 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:26 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:27 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:27 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:27 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:27 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:28 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:28 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:28 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:28 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:28 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:28 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:30 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:30 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:30 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:30 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:30 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:30 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:31 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:31 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:31 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:31 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:31 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:31 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:33 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:33 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:33 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:33 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:33 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:33 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:35 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:35 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:35 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:35 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:35 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:35 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:37 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:37 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:37 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:37 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:37 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:37 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:37 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:37 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:37 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:38 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:38 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:38 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:38 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:38 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:38 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:40 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:40 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:40 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:40 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:40 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:40 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:41 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:41 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:42 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:42 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:43 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:43 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:43 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:43 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:43 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:43 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:43 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:45 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:45 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:45 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:45 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:45 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:45 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:46 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:46 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:46 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:46 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:46 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:46 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:47 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:47 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:47 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:47 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:47 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:47 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:49 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:49 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:49 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:49 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:49 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:49 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:50 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:50 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:50 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:50 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:50 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:50 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:51 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:51 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:51 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:52 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:52 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:52 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:52 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:52 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:52 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:53 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:53 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:53 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:53 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:53 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:53 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:53 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:54 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:54 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:54 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:54 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:54 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:54 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:54 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:54 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:55 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:55 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:55 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:55 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:55 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:55 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:56 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:56 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:56 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:56 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:56 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:56 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:56 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:56 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:56 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:57 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:57 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:57 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:57 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:57 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:57 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:58 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:58 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:58 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:58 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:58 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:58 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:59 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:59 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:59 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:59 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:59 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:59 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:29:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:29:59 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:29:59 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:29:59 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:00 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:00 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:00 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:00 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:00 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:00 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:01 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:01 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:01 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:01 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:01 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:01 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:02 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:02 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:02 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:02 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:02 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:02 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:02 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:02 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:02 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:03 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:03 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:03 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:03 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:03 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:03 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:04 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:04 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:04 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:04 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:04 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:04 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:04 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:04 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:04 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:04 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:04 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:05 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:05 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:05 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:05 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:05 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:05 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:06 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:06 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:06 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:06 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:06 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:06 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:06 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:06 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:06 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:07 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:07 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:07 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:07 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:07 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:07 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:08 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:08 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:08 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:08 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:08 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:08 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:09 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:09 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:09 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:09 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:09 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:09 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:10 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:10 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:10 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:10 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:10 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:10 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:11 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:11 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:11 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:11 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:11 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:11 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:11 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:11 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:12 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:12 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:12 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:12 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:12 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:12 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:12 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:13 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:13 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:13 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:13 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:13 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:13 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:14 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:14 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:14 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:14 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:14 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:14 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:14 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:14 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:14 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:15 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:15 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:15 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:15 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:15 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:15 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:16 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:16 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:16 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:16 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:16 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:16 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:17 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:17 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:17 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:17 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:17 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:17 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:17 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:17 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:17 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:18 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:18 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:18 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:18 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:18 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:18 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:19 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:19 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:19 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:19 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:19 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:19 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:19 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:19 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:19 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:20 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:20 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:20 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:20 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:20 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:20 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:21 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:21 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:21 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:21 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:21 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:21 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:22 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:22 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:22 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:22 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:22 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:22 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:22 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:22 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:22 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:23 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:23 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:23 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:23 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:23 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:23 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:24 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:24 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:24 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:24 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:24 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:24 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:24 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:24 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:24 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:25 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:25 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:25 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:25 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:25 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:25 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:26 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:26 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:26 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:26 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:26 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:26 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:26 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:26 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:27 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:27 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:27 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:27 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:28 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:28 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:28 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:28 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:28 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:28 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:30 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:30 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:30 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:31 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:31 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:31 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:31 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:31 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:31 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:33 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:33 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:33 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:33 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:33 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:33 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:35 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:35 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:35 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:35 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:35 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:35 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:37 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:37 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:37 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:37 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:37 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:37 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:38 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:38 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:38 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:38 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:38 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:38 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:40 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:40 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:40 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:40 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:41 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:41 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:41 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:42 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:42 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:43 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:43 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:43 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:43 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:43 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:43 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:45 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:45 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:45 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:45 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:45 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:45 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:46 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:46 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:46 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:46 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:46 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:46 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:47 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:47 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:47 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:47 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:47 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:47 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:47 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:47 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:47 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:49 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:49 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:49 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:49 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:49 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:49 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:49 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:49 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:49 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:50 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:50 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:50 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:50 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:50 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:50 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:51 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:51 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:52 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:52 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:52 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 00:30:52 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 00:30:52 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 00:30:52 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 00:30:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true

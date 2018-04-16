@@ -1,0 +1,14 @@
+{
+            "name": "REQUEST_BIRTH_YEAR",
+            "type": "ask",
+            "browsingFilter": "U97 !=null",
+            "endFilter": "U11==BirthYearRequest",
+            "events:": [
+               
+                {
+                    "name": "Validation_Error",
+                    "label": "Validation Error",
+                    "filter": "U3 ==13 && U29==null && U38==null && U32==null"
+                }
+            ]
+        },

@@ -1,0 +1,1456 @@
+Wed May 24 01:16:04 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:04 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:04 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:04 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:05 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:05 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:05 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:05 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:05 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:05 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:06 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:06 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:06 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:06 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:06 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:06 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:06 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:06 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:06 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:07 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:07 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:07 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:07 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:07 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:07 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:08 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:08 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:08 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:08 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:08 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:08 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:08 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:08 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:08 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:09 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:09 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:09 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:09 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:09 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:09 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:10 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:10 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:10 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:10 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:10 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:10 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:10 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:10 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:11 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:11 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:11 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:11 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:11 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:11 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:11 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:12 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:12 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:12 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:12 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:12 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:12 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:12 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:12 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:12 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:13 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:13 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:13 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:13 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:13 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:13 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:14 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:14 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:14 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:14 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:14 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:14 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:14 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:14 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:14 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:15 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:15 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:15 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:15 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:15 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:15 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:16 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:16 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:16 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:16 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:16 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:16 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:16 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:16 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:16 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:17 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:17 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:17 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:17 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:17 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:17 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:18 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:18 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:18 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:18 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:18 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:18 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:18 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:18 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:18 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:19 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:19 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:19 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:19 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:19 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:19 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:20 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:20 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:20 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:20 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:20 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:20 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:20 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:20 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:20 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:21 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:21 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:21 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:21 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:21 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:21 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:22 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:22 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:22 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:22 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:22 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:22 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:22 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:22 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:22 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:23 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:23 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:23 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:23 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:23 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:23 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:24 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:24 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:24 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:24 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:24 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:24 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:25 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:25 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:25 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:25 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:25 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:25 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:25 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:25 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:25 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:26 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:26 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:26 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:26 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:26 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:26 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:27 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:27 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:27 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:27 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:27 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:27 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:27 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:28 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:28 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:28 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:28 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:28 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:28 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:28 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:28 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:29 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:29 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:29 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:30 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:30 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:30 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:30 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:30 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:30 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:30 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:31 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:31 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:31 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:31 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:31 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:31 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:31 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:31 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:32 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:32 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:32 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:33 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:33 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:33 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:33 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:33 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:33 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:34 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:34 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:34 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:35 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:35 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:35 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:35 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:35 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:35 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:36 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:36 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:36 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:37 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:37 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:37 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:37 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:37 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:37 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:38 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:38 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:38 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:38 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:38 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:38 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:39 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:39 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:39 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:40 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:40 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:40 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:40 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:40 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:41 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:41 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:41 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:41 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:42 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:42 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:42 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:42 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:42 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:43 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:43 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:43 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:43 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:43 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:43 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:44 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:44 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:44 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:45 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:45 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:45 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:45 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:45 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:45 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:46 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:46 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:46 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:46 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:46 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:46 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:46 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:46 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:46 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:47 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:47 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:47 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:47 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:47 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:47 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:48 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:48 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:48 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:49 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:49 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:49 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:49 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:49 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:49 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:50 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:50 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:50 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:50 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:50 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:50 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:50 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:50 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:50 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:51 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:51 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:51 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:51 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:52 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:52 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:52 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:52 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:52 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:52 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:52 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:53 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:53 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:53 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:53 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:53 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:53 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:54 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:54 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:54 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:54 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:54 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:54 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:54 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:54 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:54 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:55 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:55 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:55 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:55 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:55 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:55 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:56 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:56 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:56 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:56 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:56 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:56 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:56 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:56 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:56 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:57 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:57 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:57 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:57 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:57 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:57 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:57 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:57 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:58 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:58 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:58 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:58 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:16:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:16:58 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:16:58 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:16:58 BRT 2017: Template NÂO LOCALIZADO
+Wed May 24 01:17:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:17:57 BRT 2017: Quantidade de Email para envio : 1
+Wed May 24 01:17:57 BRT 2017: Email à ser enviado : renancortez141@gmail.com
+Wed May 24 01:19:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:37 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:37 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:37 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:38 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:38 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:38 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:39 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:39 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:39 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:40 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:40 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:40 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:41 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:41 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:41 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:42 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:42 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:42 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:43 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:43 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:44 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:44 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:44 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:45 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:45 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:45 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:46 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:46 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:46 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:47 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:47 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:48 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:48 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:48 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:49 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:49 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:49 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:50 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:50 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:50 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:51 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:51 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:52 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:52 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:52 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:53 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:53 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:53 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:54 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:54 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:54 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:55 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:55 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:55 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:56 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:56 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:56 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:57 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:57 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:58 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:58 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:58 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:59 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:59 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:19:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:19:59 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:00 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:00 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:00 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:01 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:01 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:01 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:02 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:02 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:03 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:03 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:03 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:04 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:04 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:04 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:04 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:04 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:05 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:05 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:05 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:06 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:06 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:06 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:07 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:07 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:07 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:08 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:08 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:09 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:09 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:09 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:10 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:10 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:10 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:11 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:11 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:11 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:12 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:12 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:12 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:13 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:13 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:14 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:14 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:14 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:15 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:15 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:15 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:16 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:16 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:16 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:17 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:17 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:17 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:18 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:18 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:18 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:19 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:19 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:19 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:20 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:20 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:21 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:21 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:21 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:22 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:22 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:22 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:23 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:23 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:23 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:24 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:24 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:24 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:25 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:25 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:25 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:26 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:26 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:27 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:27 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:27 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:28 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:28 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:28 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:29 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:29 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:29 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:30 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:30 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:31 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:31 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:31 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:32 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:32 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:32 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:37 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:37 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:38 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:38 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:38 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:38 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:39 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:39 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:39 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:39 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:40 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:40 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:40 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:40 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:41 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:41 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:41 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:41 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:42 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:42 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:42 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:42 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:43 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:43 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:43 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:43 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:44 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:44 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:44 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:45 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:45 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:45 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:45 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:46 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:46 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:46 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:46 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:47 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:47 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:47 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:47 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:48 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:48 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:48 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:48 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:49 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:49 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:49 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:49 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:50 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:50 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:50 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:51 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:51 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:51 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:52 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:52 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:52 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:52 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:53 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:53 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:53 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:53 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:54 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:54 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:54 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:54 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:55 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:55 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:55 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:55 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:56 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:56 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:56 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:57 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:57 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:57 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:57 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:58 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:58 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:58 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:58 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:59 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:59 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:20:59 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:20:59 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:00 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:00 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:00 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:00 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:01 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:01 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:01 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:01 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:02 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:02 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:02 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:02 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:03 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:03 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:03 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:04 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:04 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:04 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:04 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:04 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:05 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:05 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:05 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:05 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:06 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:06 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:06 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:07 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:07 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:07 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:08 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:08 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:08 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:08 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:09 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:09 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:09 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:09 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:10 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:10 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:10 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:10 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:11 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:11 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:11 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:12 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:12 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:12 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:12 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:13 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:13 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:13 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:13 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:14 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:14 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:14 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:14 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:15 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:15 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:15 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:15 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:16 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:16 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:16 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:17 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:17 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:17 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:18 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:18 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:18 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:19 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:19 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:19 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:20 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:20 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:20 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:20 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:21 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:21 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:21 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:21 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:22 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:22 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:22 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:22 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:23 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:23 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:23 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:23 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:24 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:24 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:24 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:24 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:25 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:25 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:25 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:25 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:26 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:26 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:26 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:26 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:27 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:27 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:27 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:28 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:28 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:28 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:28 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:29 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:29 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:29 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:29 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:30 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:30 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:30 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:30 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:31 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:31 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:31 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:31 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:32 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:32 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:32 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:33 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:33 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:34 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:34 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:35 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:35 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:36 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:36 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:37 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 01:21:37 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Wed May 24 01:21:37 BRT 2017: Quantidade de Email para envio : 0
+Wed May 24 11:14:47 BRT 2017: Falha na conexão TCP/IP com o host 192.168.1.119, porta 1433. Erro: "Tempo limite da conexão expirado: não há informações adicionais. Verifique as propriedades da conexão. Verifique se uma instância do SQL Server está sendo executada no host e se está aceitando conexões TCP/IP na porta. Verifique se as conexões TCP na porta não foram bloqueadas por um firewall.".
+Wed May 24 11:14:48 BRT 2017: jdbc:sqlserver://192.168.1.119:1433;databaseName=IMPromptManager  Conected :false
+Wed May 24 11:15:48 BRT 2017: Falha na conexão TCP/IP com o host 192.168.1.119, porta 1433. Erro: "Tempo limite da conexão expirado: não há informações adicionais. Verifique as propriedades da conexão. Verifique se uma instância do SQL Server está sendo executada no host e se está aceitando conexões TCP/IP na porta. Verifique se as conexões TCP na porta não foram bloqueadas por um firewall.".
+Wed May 24 11:15:48 BRT 2017: jdbc:sqlserver://192.168.1.119:1433;databaseName=IMPromptManager  Conected :false
+Wed May 24 11:16:03 BRT 2017: Falha na conexão TCP/IP com o host 192.168.1.119, porta 1433. Erro: "Tempo limite da conexão expirado: não há informações adicionais. Verifique as propriedades da conexão. Verifique se uma instância do SQL Server está sendo executada no host e se está aceitando conexões TCP/IP na porta. Verifique se as conexões TCP na porta não foram bloqueadas por um firewall.".
+Wed May 24 11:16:03 BRT 2017: jdbc:sqlserver://192.168.1.119:1433;databaseName=IMPromptManager  Conected :false
+Wed May 24 11:16:18 BRT 2017: Falha na conexão TCP/IP com o host 192.168.1.119, porta 1433. Erro: "Tempo limite da conexão expirado: não há informações adicionais. Verifique as propriedades da conexão. Verifique se uma instância do SQL Server está sendo executada no host e se está aceitando conexões TCP/IP na porta. Verifique se as conexões TCP na porta não foram bloqueadas por um firewall.".
+Wed May 24 11:16:18 BRT 2017: jdbc:sqlserver://192.168.1.119:1433;databaseName=IMPromptManager  Conected :false
+Thu Aug 03 16:33:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:33:18 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:33:18 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:33:18 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:33:18 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:33:18 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:33:19 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:34:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:34:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:34:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:34:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:34:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:34:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:34:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:35:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:35:17 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:35:17 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:35:17 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:35:17 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:35:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:35:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:36:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:36:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:36:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:36:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:36:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:36:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:36:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:37:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:37:17 BRT 2017: Quantidade de Email para envio Notificação : 2
+Thu Aug 03 16:37:17 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:37:17 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:37:17 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:37:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:37:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:38:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:38:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:38:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:38:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:38:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:38:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:38:17 BRT 2017: Quantidade de Email para envio : 1
+Thu Aug 03 16:38:17 BRT 2017: Email à ser enviado : prooch@imnet.com
+Thu Aug 03 16:38:51 BRT 2017: Sent message successfully....
+Thu Aug 03 16:39:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:39:17 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:39:17 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:39:17 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:39:17 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:39:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:39:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:40:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:40:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:40:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:40:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:40:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:40:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:40:17 BRT 2017: Quantidade de Email para envio : 2
+Thu Aug 03 16:40:17 BRT 2017: Email à ser enviado : imbra@imnet.com
+Thu Aug 03 16:40:49 BRT 2017: Sent message successfully....
+Thu Aug 03 16:40:49 BRT 2017: Email à ser enviado : rcortez@imnet.com
+Thu Aug 03 16:41:12 BRT 2017: Sent message successfully....
+Thu Aug 03 16:41:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:41:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:41:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:41:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:41:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:41:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:41:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:42:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:42:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:42:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:42:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:42:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:42:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:42:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:43:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:43:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:43:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:43:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:43:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:43:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:43:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:44:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:44:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:44:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:44:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:44:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:44:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:44:17 BRT 2017: Quantidade de Email para envio : 2
+Thu Aug 03 16:44:17 BRT 2017: Email à ser enviado : imbra@imnet.com
+Thu Aug 03 16:44:46 BRT 2017: Sent message successfully....
+Thu Aug 03 16:44:46 BRT 2017: Email à ser enviado : rcortez@imnet.com
+Thu Aug 03 16:45:14 BRT 2017: Sent message successfully....
+Thu Aug 03 16:45:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:45:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:45:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:45:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:45:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:45:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:45:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:46:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:46:16 BRT 2017: Quantidade de Email para envio Notificação : 2
+Thu Aug 03 16:46:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:46:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:46:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:46:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:46:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:47:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:47:16 BRT 2017: Quantidade de Email para envio Notificação : 2
+Thu Aug 03 16:47:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:47:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:47:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:47:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:47:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:48:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:48:16 BRT 2017: Quantidade de Email para envio Notificação : 2
+Thu Aug 03 16:48:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:48:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:48:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:48:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:48:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:49:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:49:16 BRT 2017: Quantidade de Email para envio Notificação : 2
+Thu Aug 03 16:49:16 BRT 2017: Email à ser enviado : imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com
+Thu Aug 03 16:49:16 BRT 2017: Illegal semicolon, not in group
+Thu Aug 03 16:49:16 BRT 2017: javax.mail.internet.AddressException: Illegal semicolon, not in group in string ``imbra@imnet.com;jalmeida@imnet.com;rcortez@imnet.com;proosch@imnet.com'' at position 15
+Thu Aug 03 16:49:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:49:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:50:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:50:16 BRT 2017: Quantidade de Email para envio Notificação : 1
+Thu Aug 03 16:50:16 BRT 2017: Email à ser enviado : rcortez@imnet.com
+Thu Aug 03 16:50:49 BRT 2017: Sent message successfully....
+Thu Aug 03 16:50:50 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:50:50 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:51:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:51:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:51:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:51:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:52:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:52:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:52:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:52:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:53:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:53:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:53:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:53:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:54:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:54:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:54:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:54:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:55:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:55:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:55:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:55:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:56:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:56:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:56:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:56:17 BRT 2017: Quantidade de Email para envio : 2
+Thu Aug 03 16:56:17 BRT 2017: Email à ser enviado : imbra@imnet.com
+Thu Aug 03 16:56:46 BRT 2017: Sent message successfully....
+Thu Aug 03 16:56:46 BRT 2017: Email à ser enviado : rcortez@imnet.com
+Thu Aug 03 16:57:08 BRT 2017: Sent message successfully....
+Thu Aug 03 16:57:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:57:16 BRT 2017: Quantidade de Email para envio Notificação : 2
+Thu Aug 03 16:57:16 BRT 2017: Email à ser enviado : proosch@imnet.com
+Thu Aug 03 16:57:42 BRT 2017: Sent message successfully....
+Thu Aug 03 16:57:42 BRT 2017: Email à ser enviado : jalmeida@imnet.com
+Thu Aug 03 16:58:06 BRT 2017: Sent message successfully....
+Thu Aug 03 16:58:07 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:58:07 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:58:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:58:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:58:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:58:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 16:59:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:59:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 16:59:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 16:59:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 17:00:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:00:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 17:00:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:00:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 17:01:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:01:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 17:01:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:01:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 17:02:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:02:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 17:02:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:02:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 17:03:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:03:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 17:03:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:03:17 BRT 2017: Quantidade de Email para envio : 0
+Thu Aug 03 17:04:16 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:04:16 BRT 2017: Quantidade de Email para envio Notificação : 0
+Thu Aug 03 17:04:17 BRT 2017: jdbc:sqlserver://177.67.51.54:1414;databaseName=IMPromptManager  Conected :true
+Thu Aug 03 17:04:17 BRT 2017: Quantidade de Email para envio : 0
