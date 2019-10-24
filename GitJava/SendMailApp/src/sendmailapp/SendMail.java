@@ -96,7 +96,7 @@ public class SendMail {
                     new javax.mail.Authenticator() {
                         protected PasswordAuthentication getPasswordAuthentication() {
                             return new PasswordAuthentication(usr, pwd);
-                            // return new PasswordAuthentication("rcortez@imnet.com", "Titanium_Zinho");
+                            // return new PasswordAuthentication("rcortez@imnet.com", "pwd");
                             
                             
                         }
